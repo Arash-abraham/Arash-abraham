@@ -1,6 +1,8 @@
 # Hi 👋, I'm Arash  
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="450" align="right">
+
 <p>I'm an Iranian backend developer passionate about crafting robust, scalable systems with a focus on efficient solutions.</p>
+
 ### Connect with me on:  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right: 10px;">](https://instagram.com/arash_arsites) [<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" width="70" style="vertical-align:middle">](https://x.com/Arash_Aryans)  
 ### Languages and Frameworks:  
