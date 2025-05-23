@@ -1,5 +1,6 @@
 # Hi 👋, I'm Arash  
-<p>I'm an Iranian backend developer passionate about crafting robust, scalable systems with a focus on efficient solutions.</p>
+### <p>I'm an Iranian backend developer passionate about crafting robust, scalable systems with a focus on efficient solutions.</p>
+
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="450" align="right">
 
 ### Connect with me on:  
