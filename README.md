@@ -10,10 +10,12 @@ I’m a passionate Backend Developer
 ### Arash's GitHub Stats  
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark)  
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark)  
   </div>
   <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="Coding GIF" width="200" style="vertical-align:top;">
+    <img src="https://media.giphy.com/media/26n6Wq7yZMn5pZ6Wk/giphy.gif" alt="Coding GIF" width="200" style="vertical-align:top;">
   </div>
 </div>
+
+
