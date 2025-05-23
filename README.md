@@ -3,12 +3,13 @@
 I’m a passionate Backend Developer  
 
 - 📫 Connect with me on:  
-  [![Instagram](https://img.shields.io/badge/Instagram-orange)](https://instagram.com/arash_arsites)  | [![X](https://img.shields.io/badge/X-black)](https://x.com/Arash_Aryans)  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" width="24" height="24" style="vertical-align:middle">](https://instagram.com/arash_arsites)  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/X_Logo_2023.png" alt="X" width="24" height="24" style="vertical-align:middle">](https://x.com/Arash_Aryans)  
 
 ### Languages and Frameworks:  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Laravel.svg" alt="Laravel" width="24" height="24" style="vertical-align:middle"> Laravel](https://laravel.com)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="24" height="24" style="vertical-align:middle"> Node.js](https://nodejs.org)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="24" height="24" style="vertical-align:middle"> Next.js](https://nextjs.org)  
 
 ### Arash's GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
