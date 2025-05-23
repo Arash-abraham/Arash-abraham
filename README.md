@@ -11,3 +11,8 @@
 
 ### Arash's GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark)
+
+
+***
+I love solving complex problems with clean and efficient backend code.
+***
