@@ -4,7 +4,7 @@ I’m a passionate Backend Developer
 
 - 📫 Connect with me on:  
   [![Instagram](https://img.shields.io/badge/Instagram-orange)](https://instagram.com/arash_arsites)  
-  [![Twitter](https://img.shields.io/badge/X)](https://x.com/Arash_Aryans)  
+  [![X](https://img.shields.io/badge/X-black)](https://x.com/Arash_Aryans)  
 
 ### Languages and Frameworks:  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)  
