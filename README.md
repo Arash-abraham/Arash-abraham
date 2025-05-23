@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently working on a simple CMS with PHP and Twig  
-- 📚 Learning Laravel to build better projects  
-- 📫 How to reach me: arash@example.com
+### Connect with me:
+[LinkedIn](https://linkedin.com/in/yourusername) | [Instagram](https://instagram.com/arash_arsites)
+### Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-orange)](https://instagram.com/yourusername)
