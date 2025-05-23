@@ -10,5 +10,5 @@ I’m a passionate Backend Developer
   [<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" width="40" style="vertical-align:middle">](https://x.com/Arash_Aryans)  
 
 ### Arash's GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark)  
