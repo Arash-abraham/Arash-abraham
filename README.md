@@ -2,7 +2,7 @@
 
 I’m a passionate Backend Developer  
 
-- 📫 Connect with me on:  
+### Connect with me on:  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" width="24" height="24" style="vertical-align:middle">](https://instagram.com/arash_arsites)  [<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" style="vertical-align:middle">](https://x.com/Arash_Aryans)  
 
 ### Languages and Frameworks:  
