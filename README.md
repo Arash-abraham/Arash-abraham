@@ -12,8 +12,8 @@
 [<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:middle">](https://nodejs.org) [<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" style="vertical-align:middle">](https://nextjs.org)   [<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" style="vertical-align:middle">](https://reactjs.org) [<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:middle">](https://www.python.org)
 
 ### Connect with me on:  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" width="40" height="40">](https://instagram.com/arash_arsites)
-[<img src="https://www.gstatic.com/images/icons/material/product/2x/gmail_512dp.png" alt="Email" width="40" height="40">](mailto:arashebi777@gmail.com)
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40">](https://instagram.com/arash_arsites)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40">](mailto:arashebi777@gmail.com)
 
 ### Arash GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark)
