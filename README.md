@@ -10,12 +10,16 @@
 [<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:middle">](https://nodejs.org)
 [<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:middle">](https://www.python.org)
 
+<br>
+
 ### Frameworks :
 [<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" style="vertical-align:middle">](https://laravel.com) 
 [<img src="https://img.shields.io/badge/LiveWire-4E56A6?logo=livewire&logoColor=white" alt="LiveWire" style="vertical-align:middle">](https://laravel-livewire.com)
 [<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React.js" style="vertical-align:middle">](https://reactjs.org)
 [<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" style="vertical-align:middle">](https://nextjs.org)
 [<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black" alt="Alpine.js" style="vertical-align:middle">](https://alpinejs.dev)
+
+<br>
 
 ### Connect with me on:  
 <p>
