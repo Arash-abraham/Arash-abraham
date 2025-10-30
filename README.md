@@ -33,7 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide=html,css,hack" alt="Top Languages" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" align="right">
 </p>
-
-***
-I love solving complex problems with clean and efficient backend code.
-***
