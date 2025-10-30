@@ -28,5 +28,9 @@
   <a href="https://twitter.com/Arash_Aryans"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="40" height="40"></a>
 </p>
 
-### Arash GitHub Stats  
-![Languages](https://skillicons.dev/icons?i=php,laravel,js,twig,python,cpp,react,nodejs)
+### 📊 Language Usage
+- **PHP**: 43.03%
+- **Blade**: 28.69% 
+- **Twig**: 15.00%
+- **JavaScript**: 1.69%
+- **Python**: 0.68%
