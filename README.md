@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arash  
 ### <p>I'm a backend developer who hates the frontend.</p>
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="450" align="right">
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="40" align="right">
 ### Languages :
 
 [<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="vertical-align:middle">](https://www.php.net) 
@@ -27,6 +27,5 @@
   <a href="https://twitter.com/Arash_Aryans"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="40" height="40"></a>
 </p>
 
-***
 I love solving complex problems with clean and efficient backend code.
 ***
