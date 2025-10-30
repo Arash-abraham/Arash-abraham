@@ -29,5 +29,8 @@
 </p>
 
 <br>
+<br>
+
+***
 I love solving complex problems with clean and efficient backend code.
 ***
