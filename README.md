@@ -17,7 +17,7 @@
   &nbsp;&nbsp;
   <a href="mailto:arashebi777@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/arash_arsites"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40"></a>
+  <a href="https://t.me/Octawian"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/Arash_Aryans"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="40" height="40"></a>
 </p>
