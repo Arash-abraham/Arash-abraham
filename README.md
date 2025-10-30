@@ -28,4 +28,5 @@
   <a href="https://twitter.com/Arash_Aryans"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="40" height="40"></a>
 </p>
 
-<h4>Backend architect • Clean code enthusiast</h4>
+### Arash GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
