@@ -1,5 +1,5 @@
 # Hi 👋, I'm Arash  
-### <p>A passionate backend developer with frontend superpowers 🚀</p>
+### <p>Code that scales, interfaces that shine . I deliver the full package</p>
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="450" align="right">
 
