@@ -29,4 +29,4 @@
 </p>
 
 ### Arash GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+![Languages](https://skillicons.dev/icons?i=php,laravel,js,twig,python,cpp,react,nodejs)
