@@ -28,4 +28,4 @@
   <a href="https://twitter.com/Arash_Aryans"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="40" height="40"></a>
 </p>
 
-Backend architect • Clean code enthusiast
+<h2>Backend architect • Clean code enthusiast</h2>
