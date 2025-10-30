@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arash  
 ### Backend dev who can do frontend when needed.
 
-### &lt;img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="300" align="right"&gt;
+&lt;img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="300" align="right"&gt;
 
 ### Connect with me  
 [&lt;img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" width="40" height="40"&gt;](https://instagram.com/arash_arsites)
