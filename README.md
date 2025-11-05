@@ -33,7 +33,7 @@
 ***
 ### GitHub Stats
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide=html,css,hack,digital%20command%20language&size_weight=0&count_weight=1" height="165" alt="Top Languages by Project Count"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide=html,css,hack,digital%20command%20language&exclude_repo=Oscar&size_weight=0&count_weight=1" height="165" alt="Top Languages by Project Count"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
 </p>
 
 ***
