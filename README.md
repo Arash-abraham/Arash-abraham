@@ -7,6 +7,7 @@
 [<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="vertical-align:middle">](https://www.php.net) 
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align:middle">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">](https://www.typescriptlang.org)
+[<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:middle">](https://www.python.org)
 
 
 ### Frameworks :
@@ -18,6 +19,8 @@
 [<img src="https://img.shields.io/badge/Express-F7DF1E?logo=express&logoColor=black" alt="Express" style="vertical-align:middle">](https://expressjs.com)
 [<img src="https://img.shields.io/badge/Fastify-009900?logo=fastify&logoColor=black" alt="Fastify" style="vertical-align:middle">](https://fastify.dev)
 [<img src="https://img.shields.io/badge/NestJS-EA2845?logo=nestjs&logoColor=white" alt="NestJS" style="vertical-align:middle">](https://nestjs.com)
+[<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" style="vertical-align:middle">](https://www.djangoproject.com)
+[<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" style="vertical-align:middle">](https://flask.palletsprojects.com)
 
 ### Connect with me on:  
 <p>
