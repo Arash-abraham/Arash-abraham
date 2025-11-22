@@ -6,6 +6,7 @@
 ### Languages :
 [<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="vertical-align:middle">](https://www.php.net) 
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align:middle">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">](https://www.typescriptlang.org)
 [<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:middle">](https://nodejs.org)
 [<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:middle">](https://www.python.org)
 
