@@ -16,7 +16,7 @@
 [<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React.js" style="vertical-align:middle">](https://reactjs.org)
 [<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" style="vertical-align:middle">](https://nextjs.org)
 [<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black" alt="Alpine.js" style="vertical-align:middle">](https://alpinejs.dev)
-[<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" style="vertical-align:middle">](https://expressjs.com)
+[<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" style="vertical-align:middle">](https://expressjs.com)
 [<img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" alt="Fastify" style="vertical-align:middle">](https://fastify.dev)
 
 ### Connect with me on:  
