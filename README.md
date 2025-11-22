@@ -7,8 +7,7 @@
 [<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="vertical-align:middle">](https://www.php.net) 
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align:middle">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">](https://www.typescriptlang.org)
-[<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:middle">](https://nodejs.org)
-[<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:middle">](https://www.python.org)
+
 
 ### Frameworks :
 [<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" style="vertical-align:middle">](https://laravel.com) 
@@ -16,7 +15,7 @@
 [<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React.js" style="vertical-align:middle">](https://reactjs.org)
 [<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" style="vertical-align:middle">](https://nextjs.org)
 [<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black" alt="Alpine.js" style="vertical-align:middle">](https://alpinejs.dev)
-[<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&label=Express.js" alt="Express.js" style="vertical-align:middle">](https://expressjs.com)
+[<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&label=Express" alt="Express" style="vertical-align:middle">](https://expressjs.com)
 [<img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&label=Fastify" alt="Fastify" style="vertical-align:middle">](https://fastify.dev)
 
 ### Connect with me on:  
