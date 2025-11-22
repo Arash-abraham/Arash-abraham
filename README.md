@@ -35,5 +35,6 @@
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide=html,css,hack,PowerShell,digital%20command%20language&exclude_repo=Oscar&size_weight=0.3&count_weight=0.7" height="165" alt="Top Languages by Project Count"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arash-abraham&show_icons=true&count_private=true&hide_title=true)
 
 ***
