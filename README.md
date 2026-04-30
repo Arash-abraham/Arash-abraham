@@ -39,13 +39,15 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 <br><br><br>
 
 ---
+### 📌 Right Now
 
-### 📌 Currently Pouring My Energy Into
+- 🗼 **Watch Tower** — building it for real. This one matters.
 
-- 🔭 **File-Store** — a complete digital marketplace for PDF books (Laravel + wallet + payment gateway)
-- 🌱 **Laravel 13 & WebSockets** — because real-time is the future
-- 👯 **Open Source & Security Tools** — always happy to collaborate
+- 📚 **File-Store** — done, but never finished.
 
+- ⚡ **A-Train** — a plan exists. Patience.
+
+- 🤝 **Collaboration** — looking for people who build weird stuff.
 ---
 
 ### 🧠 What Drives Me
