@@ -4,24 +4,24 @@
 
 I craft scalable, clean backends — and step into frontend when the mission calls for it.
 
-⚡ I thrive on: **System Architecture** • **API Design** • **Cybersecurity** • **Sharing What I Learn**
+⚡ I thrive on: **System Architecture** • **API Design** • **Cybersecurity** • **Coding in the Dark**
 
- From Persia, writing code that crosses borders.
+🇮🇷 From Iran, writing code that crosses borders.
 
 ---
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="Obito GIF" width="400" height="250" align="right">
 
-### 🛠️My Toolbox
+### 🛠️ My Toolbox
 
-**Languages I speak with machines:**
+**Languages:**
 <br>
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node.js-026E00?logo=nodedotjs&logoColor=white" alt="Node.js">
 
-**Frameworks that shape my code:**
+**Frameworks:**
 <br>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/LiveWire-4E56A6?logo=livewire&logoColor=white" alt="LiveWire">
@@ -29,38 +29,26 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black" alt="Alpine.js">
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
 
-**Where I store memories (data):**
+**Databases & Tools:**
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-<br><br><br>
 
 ---
+
 ### 📌 Right Now
 
 - **Watch Tower** — building it for real. This one matters.
 - **File-Store** — done, but never finished.
 - **A-Train** — a plan exists. Patience.
-- **Open to collaboration** — security tools, Laravel packages, or just interesting ideas 🤝 .  
----
-
-### 🧠 What Drives Me
-
-> Solving problems that actually matter.
-> 
-> Building things that outlive me.
-> 
-> Proving that where you're from doesn't limit what you can build.
-
-**Outside of code:**  
-🎧 Listening to dark ambient while debugging • 🎥 Rewatching Naruto (yes, Obito is here to stay) • ☕ Hunting for the perfect cup of coffee
+- **Open to collaboration** — security tools, Laravel packages, or just interesting ideas 🤝.
 
 ---
 
-### 📊 GitHub Pulse
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide=blade,html,css,hack,PowerShell,digital%20command%20language&exclude_repo=Oscar&size_weight=0.3&count_weight=0.7" height="165" alt="Top Languages"/>
@@ -74,7 +62,6 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 
 - 📧 **arashebi777@gmail.com**
 - 💬 **Telegram:** [@Octawian](https://t.me/Octawian)
-- 🌐 **GitHub:** you're already here
 
 ---
 
