@@ -50,7 +50,9 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 ### 🧠 What Drives Me
 
 > Solving problems that actually matter.
+> 
 > Building things that outlive me.
+> 
 > Proving that where you're from doesn't limit what you can build.
 
 **Outside of code:**  
