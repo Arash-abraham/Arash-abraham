@@ -12,6 +12,7 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="Obito GIF" width="400" height="250" align="right">
 
+### 🛠️ My Toolbox
 
 **Languages I speak with machines:**
 <br>
@@ -35,9 +36,7 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-<br>
-<br>
-<br>
+<br><br><br>
 
 ---
 
