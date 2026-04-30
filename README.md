@@ -4,7 +4,7 @@
 
 I craft scalable, clean backends — and step into frontend when the mission calls for it.
 
-⚡ I thrive on: **System Architecture** • **API Design** • **Cybersecurity** • **Open Source**
+⚡ I thrive on: **System Architecture** • **API Design** • **Cybersecurity** • **Sharing What I Learn**
 
  From Persia, writing code that crosses borders.
 
