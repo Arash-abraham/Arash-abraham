@@ -14,8 +14,6 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 <br>
 <br>
 
-### 🛠️ My Toolbox
-
 **Languages I speak with machines:**
 <br>
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
