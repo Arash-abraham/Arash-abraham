@@ -12,7 +12,7 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="Obito GIF" width="400" height="250" align="right">
 
-### My Toolbox
+### 🛠️My Toolbox
 
 **Languages I speak with machines:**
 <br>
@@ -41,16 +41,17 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 ---
 ### 📌 Right Now
 
-- 🗼 **Watch Tower** — building it for real. This one matters.
-- 📚 **File-Store** — done, but never finished.
-- ⚡ **A-Train** — a plan exists. Patience.
-- 🤝 **Open to collaboration** — security tools, Laravel packages, or just interesting ideas.
+- **Watch Tower** — building it for real. This one matters.
+- **File-Store** — done, but never finished.
+- **A-Train** — a plan exists. Patience.
+- **Open to collaboration** — security tools, Laravel packages, or just interesting ideas 🤝 .  
 ---
 
 ### 🧠 What Drives Me
 
-> "Avesta" is more than a project. It's a tribute to the ancient book that guided my ancestors.  
-> I believe great code — like great wisdom — should outlive its creator.
+> Solving problems that actually matter.
+> Building things that outlive me.
+> Proving that where you're from doesn't limit what you can build.
 
 **Outside of code:**  
 🎧 Listening to dark ambient while debugging • 🎥 Rewatching Naruto (yes, Obito is here to stay) • ☕ Hunting for the perfect cup of coffee
