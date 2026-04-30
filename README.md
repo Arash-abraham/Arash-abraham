@@ -36,6 +36,8 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+<br>
+<br>
 
 ---
 
