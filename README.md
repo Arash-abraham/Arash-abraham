@@ -3,18 +3,13 @@
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" alt="My Profile GIF" width="450" height="300" align="right">
 
-### Languages :
-[<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="vertical-align:middle">](https://www.php.net) 
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align:middle">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:middle">](https://www.python.org)
-[<img src="https://img.shields.io/badge/Node.js-026E00?logo=nodedotjs&logoColor=white" alt="Node.js" style="vertical-align:middle">](https://nodejs.org)
+**Core Strengths:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
-### Frameworks :
-[<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" style="vertical-align:middle">](https://laravel.com) 
-[<img src="https://img.shields.io/badge/LiveWire-4E56A6?logo=livewire&logoColor=white" alt="LiveWire" style="vertical-align:middle">](https://laravel-livewire.com)
+**Also Experienced in:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 [<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" style="vertical-align:middle">](https://vuejs.org)
-[<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black" alt="Alpine.js" style="vertical-align:middle">](https://alpinejs.dev)
-[<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" style="vertical-align:middle">](https://flask.palletsprojects.com)
 
 ### Connect with me on:  
 <p align="left">
