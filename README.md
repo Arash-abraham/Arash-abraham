@@ -42,12 +42,9 @@ I craft scalable, clean backends — and step into frontend when the mission cal
 ### 📌 Right Now
 
 - 🗼 **Watch Tower** — building it for real. This one matters.
-
 - 📚 **File-Store** — done, but never finished.
-
 - ⚡ **A-Train** — a plan exists. Patience.
-
-- 🤝 **Collaboration** — looking for people who build weird stuff.
+- 🤝 **Open to collaboration** — security tools, Laravel packages, or just interesting ideas.
 ---
 
 ### 🧠 What Drives Me
