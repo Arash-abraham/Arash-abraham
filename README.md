@@ -1,70 +1,150 @@
-<img src="https://media3.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" align="right" width="180" />
+# ⚡ Arash Abraham
 
-# ARASH ABRAHAM
+### Backend Architect • Laravel & Python Engineer • Security-Oriented Builder
 
-### `// Backend Architect · Laravel · Python · Security`
+> *I design systems that survive traffic, scale cleanly, and stay secure under pressure.*
 
-I craft scalable, clean backends — and step into frontend when the mission calls for it.
+<div align="center">
 
-📍 Coding from Iran. The internet isn't always kind, but the code still ships.
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="420" alt="Obito GIF" />
 
----
+<br><br>
 
-### Toolbox
+<img src="https://komarev.com/ghpvc/?username=Arash-abraham&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Arash-abraham?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/Arash-abraham?affiliations=OWNER&style=social" alt="GitHub Stars" />
 
-**Languages**
-&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-026E00?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frameworks**
-&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![LiveWire](https://img.shields.io/badge/LiveWire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Data & Infra**
-&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ---
 
-### Right Now
+## 🧠 About Me
 
-| &nbsp; | Project | Status | Note |
-|---|---|---|---|
-| 🟢 | **Watch Tower** | `active` | Real-time asset monitoring. This one matters. |
-| 🔵 | **File-Store** | `shipped` | Done, but never finished. |
-| ⚪ | **A-Train** | `planned` | A plan exists. Patience. |
+```yaml
+name: Arash
+role: Backend Architect
+focus:
+  - System Architecture
+  - API Engineering
+  - Cybersecurity
+  - Performance Optimization
+  - Automation
+stack:
+  backend: [Laravel, Flask, Node.js]
+  databases: [PostgreSQL, MySQL, MongoDB]
+  tools: [Docker, Git, Linux]
+philosophy: "Clean code scales. Secure systems last."
+location: Iran
+```
 
-> Open to collaboration — security tools, Laravel packages, or just interesting ideas.
+I mainly work on backend systems, scalable APIs, and infrastructure-focused projects.
+I enjoy building tools that are practical, secure, and actually useful.
+
+Sometimes the internet fights back.
+The code still ships.
 
 ---
 
-### GitHub Stats
+# 🛠️ Tech Arsenal
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=dark&hide=blade,html,css,hack,PowerShell,digital%20command%20language&exclude_repo=Oscar&size_weight=0.3&count_weight=0.7" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=dark&hide_border=true" height="160" />
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,js,nodejs" />
+</p>
+
+## ⚙️ Frameworks & Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,flask" />
+  <img src="https://img.shields.io/badge/LiveWire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+</p>
+
+## 🗄️ Databases & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,linux" />
 </p>
 
 ---
 
-### Let's Build Something
+# 🚀 Current Projects
 
-📧 &nbsp;**arashebi777@gmail.com**
-&nbsp;&nbsp;&nbsp;
-💬 &nbsp;**Telegram:** [@Octawian](https://t.me/Octawian)
+### 🛰️ Watch Tower
+
+> Building it for real.
+> A serious project focused on monitoring, reliability, and infrastructure awareness.
+
+### 📦 File-Store
+
+> Finished. Never truly done.
+> Storage-focused backend architecture with scalability in mind.
+
+### 🚄 A-Train
+
+> The blueprint exists.
+> Execution is only a matter of timing.
 
 ---
 
-> *"Don't make it hard for yourself — just think about the path."*
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=tokyonight&hide=blade,html,css,hack,powershell,digital%20command%20language&hide_border=true" />
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Arash-abraham&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🧩 What I Like Building
+
+* 🔐 Security-focused applications
+* ⚡ High-performance APIs
+* 🧱 Modular backend systems
+* 🐳 Dockerized environments
+* 🛡️ Monitoring & automation tools
+* 📡 Infrastructure-aware services
+* 🧪 Experimental side projects
+
+---
+
+# 🤝 Open To Collaboration
+
+Interested in:
+
+* Laravel packages
+* Security tools
+* Backend-heavy products
+* Open-source utilities
+* Experimental ideas worth building
+
+If it solves a real problem, I'm interested.
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:arashebi777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Octawian">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Philosophy
+
+> *"Don't make it harder than it needs to be — understand the path first."*
+
+</div>
