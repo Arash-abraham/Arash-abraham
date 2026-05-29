@@ -26,7 +26,7 @@ secure APIs, and infrastructure-aware applications.
 
 <div align="center">
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arash-abraham&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arash-abraham&theme=tokyonight" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
