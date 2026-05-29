@@ -92,8 +92,6 @@ The code still ships.
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vue,flask" />
-  <img src="https://img.shields.io/badge/LiveWire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
 </p>
 
 ## Databases & DevOps
