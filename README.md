@@ -26,9 +26,7 @@ secure APIs, and infrastructure-aware applications.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Arash-abraham&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Arash-abraham?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/Arash-abraham?affiliations=OWNER&style=social" alt="GitHub Stars" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
