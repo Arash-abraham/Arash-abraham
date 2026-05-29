@@ -105,20 +105,6 @@ Laravel is my main ecosystem, but I also work comfortably with Python services, 
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=tokyonight&hide=blade,html,css,hack,powershell,digital%20command%20language&hide_border=true" />
-
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Arash-abraham&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # Open To Collaboration
 
 Interested in:
