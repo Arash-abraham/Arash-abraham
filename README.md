@@ -23,22 +23,41 @@
 ```yaml
 name: Arash
 role: Backend Architect
-focus:
-  - System Architecture
-  - API Engineering
-  - Cybersecurity
+specialization:
+  - Scalable Backend Systems
+  - API Design & Architecture
+  - Security Engineering
+  - Infrastructure Automation
   - Performance Optimization
-  - Automation
-stack:
+main_stack:
   backend: [Laravel, Flask, Node.js]
   databases: [PostgreSQL, MySQL, MongoDB]
   tools: [Docker, Git, Linux]
-philosophy: "Clean code scales. Secure systems last."
-location: Iran
+currently_building:
+  - Watch Tower
+philosophy: "Build systems that survive growth, chaos, and bad decisions."
+location: Iran 🇮🇷
 ```
 
-I mainly work on backend systems, scalable APIs, and infrastructure-focused projects.
-I enjoy building tools that are practical, secure, and actually useful.
+I’m a backend-focused developer obsessed with building systems that are fast, maintainable, and secure.
+Most of my work revolves around designing APIs, structuring scalable architectures, optimizing performance bottlenecks, and creating developer-friendly infrastructures.
+
+I enjoy solving engineering problems that require thinking beyond code:
+
+* designing scalable application structures
+* securing systems against real-world threats
+* reducing complexity in growing projects
+* building reusable and modular architectures
+* automating workflows and deployment pipelines
+* turning rough ideas into reliable products
+
+Laravel is where I feel most at home, but I also work comfortably with Python ecosystems, lightweight services, and infrastructure tooling.
+
+I care deeply about writing code that stays understandable months later — not just code that works today.
+
+My approach is simple:
+
+> clean architecture, predictable systems, and practical engineering.
 
 Sometimes the internet fights back.
 The code still ships.
@@ -102,15 +121,38 @@ The code still ships.
 
 ---
 
-# 🧩 What I Like Building
+# 🧩 Engineering Interests
 
-* 🔐 Security-focused applications
-* ⚡ High-performance APIs
-* 🧱 Modular backend systems
-* 🐳 Dockerized environments
-* 🛡️ Monitoring & automation tools
-* 📡 Infrastructure-aware services
-* 🧪 Experimental side projects
+### 🔐 Security & Reliability
+
+I enjoy building systems that remain stable under pressure and are designed with security in mind from the beginning — not added later as a patch.
+
+### ⚡ Backend Architecture
+
+Designing scalable backend structures, service layers, clean APIs, and maintainable codebases is the part of programming I enjoy the most.
+
+### 🐳 Infrastructure & Automation
+
+Dockerized environments, deployment workflows, automation scripts, monitoring systems, and infrastructure-aware services are things I naturally gravitate toward.
+
+### 🧠 Problem Solving
+
+I like projects that require actual engineering decisions:
+
+* handling scale
+* reducing technical debt
+* improving maintainability
+* optimizing performance
+* simplifying complexity
+
+### 🛠️ Development Philosophy
+
+I prefer:
+
+* readable code over clever code
+* long-term maintainability over shortcuts
+* modular systems over tightly coupled chaos
+* practical engineering over hype-driven development
 
 ---
 
