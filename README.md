@@ -39,44 +39,17 @@ secure APIs, and infrastructure-aware applications.
 ```yaml
 name: Arash
 role: Backend Architect
-specialization:
-  - Scalable Backend Systems
-  - API Design & Architecture
-  - Security Engineering
-  - Infrastructure Automation
-  - Performance Optimization
-main_stack:
-  backend: [Laravel, Flask, Node.js]
-  databases: [PostgreSQL, MySQL, MongoDB]
-  tools: [Docker, Git, Linux]
-currently_building:
-  - Watch Tower
-philosophy: "Build systems that survive growth, chaos, and bad decisions."
-location: Iran
+stack: [Laravel, Python, Node.js]
+focus: [Architecture, APIs, Security, Infrastructure]
+location: Iran 
 ```
 
-I’m a backend-focused developer obsessed with building systems that are fast, maintainable, and secure.
-Most of my work revolves around designing APIs, structuring scalable architectures, optimizing performance bottlenecks, and creating developer-friendly infrastructures.
+I build scalable backend systems, secure APIs, and infrastructure-aware applications.
+Most of my work revolves around architecture design, performance optimization, and creating maintainable systems that survive growth.
 
-I enjoy solving engineering problems that require thinking beyond code:
+Laravel is my main ecosystem, but I also work comfortably with Python services, automation tools, and low-level backend problem solving.
 
-* designing scalable application structures
-* securing systems against real-world threats
-* reducing complexity in growing projects
-* building reusable and modular architectures
-* automating workflows and deployment pipelines
-* turning rough ideas into reliable products
-
-Laravel is where I feel most at home, but I also work comfortably with Python ecosystems, lightweight services, and infrastructure tooling.
-
-I care deeply about writing code that stays understandable months later — not just code that works today.
-
-My approach is simple:
-
-> clean architecture, predictable systems, and practical engineering.
-
-Sometimes the internet fights back.
-The code still ships.
+> Clean architecture. Predictable systems. Practical engineering.
 
 ---
 
@@ -132,41 +105,6 @@ The code still ships.
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Arash-abraham&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
-
-# Engineering Interests
-
-### Security & Reliability
-
-I enjoy building systems that remain stable under pressure and are designed with security in mind from the beginning — not added later as a patch.
-
-### Backend Architecture
-
-Designing scalable backend structures, service layers, clean APIs, and maintainable codebases is the part of programming I enjoy the most.
-
-### Infrastructure & Automation
-
-Dockerized environments, deployment workflows, automation scripts, monitoring systems, and infrastructure-aware services are things I naturally gravitate toward.
-
-### Problem Solving
-
-I like projects that require actual engineering decisions:
-
-* handling scale
-* reducing technical debt
-* improving maintainability
-* optimizing performance
-* simplifying complexity
-
-### Development Philosophy
-
-I prefer:
-
-* readable code over clever code
-* long-term maintainability over shortcuts
-* modular systems over tightly coupled chaos
-* practical engineering over hype-driven development
 
 ---
 
