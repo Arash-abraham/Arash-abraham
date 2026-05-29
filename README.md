@@ -25,10 +25,7 @@ secure APIs, and infrastructure-aware applications.
 </table>
 
 <div align="center">
-  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
