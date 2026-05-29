@@ -9,9 +9,9 @@
 <td width="62%" valign="center">
 
 ```txt
-Backend Architect
-Laravel & Python Engineer
-Security-Oriented Builder
+Designing reliable systems.
+Building scalable backends.
+Shipping despite the chaos.
 ```
 
 I build scalable backend systems,
