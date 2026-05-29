@@ -41,7 +41,7 @@ name: Arash
 role: Backend Architect
 stack: [Laravel, Python, Node.js]
 focus: [Architecture, APIs, Security, Infrastructure]
-location: Iran 
+location: Iran 🇮🇷
 ```
 
 I build scalable backend systems, secure APIs, and infrastructure-aware applications.
@@ -55,23 +55,34 @@ Laravel is my main ecosystem, but I also work comfortably with Python services, 
 
 # Tech Arsenal
 
-## Languages
+<table>
+<tr>
+<td valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,js,nodejs" />
-</p>
+**Languages**
 
-## Frameworks & Ecosystem
+<img src="https://skillicons.dev/icons?i=php,python,js,nodejs" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,flask" />
-</p>
+</td>
+<td valign="top">
 
-## Databases & DevOps
+**Frameworks**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,vue,flask" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,linux" />
+
+</td>
+</tr>
+</table>
 
 ---
 
