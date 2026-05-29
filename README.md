@@ -1,14 +1,30 @@
-# ⚡ Arash Abraham
+# Arash Abraham
 
 ### Backend Architect • Laravel & Python Engineer • Security-Oriented Builder
 
 > *I design systems that survive traffic, scale cleanly, and stay secure under pressure.*
 
+<table>
+<tr>
+<td width="62%" valign="center">
+
+```txt
+Backend Architect
+Laravel & Python Engineer
+Security-Oriented Builder
+```
+
+I build scalable backend systems,
+secure APIs, and infrastructure-aware applications.
+
+</td>
+<td width="38%" align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="320" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocWdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="420" alt="Obito GIF" />
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Arash-abraham&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Arash-abraham?label=Followers&style=social" alt="GitHub Followers" />
@@ -18,7 +34,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: Arash
@@ -36,7 +52,7 @@ main_stack:
 currently_building:
   - Watch Tower
 philosophy: "Build systems that survive growth, chaos, and bad decisions."
-location: Iran 🇮🇷
+location: Iran
 ```
 
 I’m a backend-focused developer obsessed with building systems that are fast, maintainable, and secure.
@@ -64,15 +80,15 @@ The code still ships.
 
 ---
 
-# 🛠️ Tech Arsenal
+# Tech Arsenal
 
-## 👨‍💻 Languages
+## Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,python,js,nodejs" />
 </p>
 
-## ⚙️ Frameworks & Ecosystem
+## Frameworks & Ecosystem
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vue,flask" />
@@ -80,7 +96,7 @@ The code still ships.
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
 </p>
 
-## 🗄️ Databases & DevOps
+## Databases & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,linux" />
@@ -88,26 +104,26 @@ The code still ships.
 
 ---
 
-# 🚀 Current Projects
+# Current Projects
 
-### 🛰️ Watch Tower
+### Watch Tower
 
 > Building it for real.
 > A serious project focused on monitoring, reliability, and infrastructure awareness.
 
-### 📦 File-Store
+### File-Store
 
 > Finished. Never truly done.
 > Storage-focused backend architecture with scalability in mind.
 
-### 🚄 A-Train
+### A-Train
 
 > The blueprint exists.
 > Execution is only a matter of timing.
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -121,21 +137,21 @@ The code still ships.
 
 ---
 
-# 🧩 Engineering Interests
+# Engineering Interests
 
-### 🔐 Security & Reliability
+### Security & Reliability
 
 I enjoy building systems that remain stable under pressure and are designed with security in mind from the beginning — not added later as a patch.
 
-### ⚡ Backend Architecture
+### Backend Architecture
 
 Designing scalable backend structures, service layers, clean APIs, and maintainable codebases is the part of programming I enjoy the most.
 
-### 🐳 Infrastructure & Automation
+### Infrastructure & Automation
 
 Dockerized environments, deployment workflows, automation scripts, monitoring systems, and infrastructure-aware services are things I naturally gravitate toward.
 
-### 🧠 Problem Solving
+### Problem Solving
 
 I like projects that require actual engineering decisions:
 
@@ -145,7 +161,7 @@ I like projects that require actual engineering decisions:
 * optimizing performance
 * simplifying complexity
 
-### 🛠️ Development Philosophy
+### Development Philosophy
 
 I prefer:
 
@@ -156,7 +172,7 @@ I prefer:
 
 ---
 
-# 🤝 Open To Collaboration
+# Open To Collaboration
 
 Interested in:
 
@@ -170,7 +186,7 @@ If it solves a real problem, I'm interested.
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
   <a href="mailto:arashebi777@gmail.com">
@@ -185,7 +201,7 @@ If it solves a real problem, I'm interested.
 
 <div align="center">
 
-### ✨ Philosophy
+### Philosophy
 
 > *"Don't make it harder than it needs to be — understand the path first."*
 
