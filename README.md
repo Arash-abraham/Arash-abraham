@@ -41,7 +41,7 @@ name: Arash
 role: Backend Architect
 stack: [Laravel, Python, Node.js]
 focus: [Architecture, APIs, Security, Infrastructure]
-location: Iran 🇮🇷
+location: Iran
 ```
 
 I build scalable backend systems, secure APIs, and infrastructure-aware applications.
@@ -88,20 +88,48 @@ Laravel is my main ecosystem, but I also work comfortably with Python services, 
 
 # Current Projects
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### Watch Tower
 
-> Building it for real.
-> A serious project focused on monitoring, reliability, and infrastructure awareness.
+Building it for real.
+Monitoring, reliability, and infrastructure awareness.
+
+</td>
+<td width="33%" valign="top">
 
 ### File-Store
 
-> Finished. Never truly done.
-> Storage-focused backend architecture with scalability in mind.
+Finished. Never truly done.
+Scalable storage-focused backend architecture.
+
+</td>
+<td width="33%" valign="top">
 
 ### A-Train
 
-> The blueprint exists.
-> Execution is only a matter of timing.
+The blueprint exists.
+Execution is only a matter of timing.
+
+</td>
+</tr>
+</table>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-abraham&layout=compact&theme=tokyonight&hide=blade,html,css,hack,powershell,digital%20command%20language&hide_border=true" />
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Arash-abraham&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
