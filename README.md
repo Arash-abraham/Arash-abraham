@@ -23,11 +23,6 @@ secure APIs, and infrastructure-aware applications.
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arash-abraham&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## About Me
