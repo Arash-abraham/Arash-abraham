@@ -8,7 +8,7 @@
 <tr>
 <td width="60%" valign="center">
 
-```text id="q4p6av"
+```text id="h8y2xq"
 Architecture.
 Backend engineering.
 Security.
@@ -35,11 +35,11 @@ and long-term maintainability.
 
 ## About
 
-```yaml id="5y5t2d"
+```yaml id="5x4v9p"
 name: Arash Abraham
 role: Backend Architect
 
-primary:
+primary_stack:
   - Laravel
   - PHP
   - Python
@@ -92,82 +92,25 @@ The primary ecosystem is Laravel, complemented by Python and Node.js for service
 
 # Areas of Expertise
 
-`Backend Architecture` · `API Engineering` · `System Design`
-`Security` · `Performance` · `Scalability` · `Infrastructure`
-`Database Design` · `Caching` · `Queues` · `Automation`
+**Backend Architecture** · **API Engineering** · **System Design**
+**Security** · **Performance** · **Scalability** · **Infrastructure**
+**Database Design** · **Caching** · **Queues** · **Automation**
 
 ---
 
 # Engineering Approach
 
-Software development is more than implementation.
+A disciplined engineering process keeps complexity under control and makes technical decisions deliberate rather than reactive.
 
-A reliable system starts with understanding the problem, defining the boundaries, and making the right architectural decisions before complexity becomes expensive.
+|  01 | **Understand** | Problem · Requirements · Constraints · Risks                      |
+| :-: | :------------- | :---------------------------------------------------------------- |
+|  02 | **Design**     | Architecture · Data · APIs · System Boundaries                    |
+|  03 | **Build**      | Implementation · Integration · Testing                            |
+|  04 | **Harden**     | Security · Validation · Failure Handling · Edge Cases             |
+|  05 | **Optimize**   | Queries · Caching · Resources · Runtime                           |
+|  06 | **Ship**       | Deployment · Observability · Measurement · Continuous Improvement |
 
-```text id="z2mt7r"
-        ┌──────────────────────┐
-        │     UNDERSTAND       │
-        │                      │
-        │ Problem              │
-        │ Requirements         │
-        │ Constraints          │
-        │ Risks                │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │       DESIGN         │
-        │                      │
-        │ Architecture         │
-        │ Data                 │
-        │ APIs                 │
-        │ Boundaries           │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │       BUILD          │
-        │                      │
-        │ Implementation       │
-        │ Integration          │
-        │ Testing              │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │       HARDEN         │
-        │                      │
-        │ Security             │
-        │ Validation           │
-        │ Failure Modes        │
-        │ Edge Cases           │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │      OPTIMIZE        │
-        │                      │
-        │ Queries              │
-        │ Caching              │
-        │ Resources            │
-        │ Runtime              │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │        SHIP          │
-        │                      │
-        │ Deploy               │
-        │ Observe              │
-        │ Measure              │
-        │ Improve              │
-        └──────────────────────┘
-```
-
-> **Understand before building.
-> Design before scaling.
-> Harden before exposing.
-> Measure before optimizing.**
+> **Understand the problem. Design the system. Build with intent. Harden against failure. Optimize with evidence. Ship with confidence.**
 
 ---
 
@@ -182,9 +125,9 @@ A reliable system starts with understanding the problem, defining the boundaries
 
 **Status:** `In Development`
 
-A production-oriented monitoring and infrastructure-awareness system being developed for **Arya Khorasan Organization**.
+A production-oriented monitoring and infrastructure-awareness system being developed for [**Arya Khorasan Organization**](https://github.com/AryaKhorasan).
 
-Focused on infrastructure visibility, system health, reliability, and operational awareness.
+The project focuses on infrastructure visibility, system health, reliability, and operational awareness.
 
 **Focus**
 
@@ -251,27 +194,21 @@ Data access, workload patterns, queues, caching, bottlenecks, and failure modes 
 
 ### Measure Before Optimizing
 
-```text id="2j0f0g"
-Find the bottleneck.
-        ↓
-Measure it.
-        ↓
-Understand it.
-        ↓
-Fix it.
-        ↓
-Measure again.
+Performance decisions should be based on evidence rather than assumptions.
+
+```text id="6s6x6f"
+Observe → Measure → Identify → Improve → Verify
 ```
 
 ### Build for the Next Engineer
 
-Good code should remain understandable long after the original implementation is forgotten.
+Good software should remain understandable long after the original implementation is forgotten.
 
 ---
 
 # Selected Interests
 
-```text id="0x7c1h"
+```text id="z6z6so"
 Laravel Ecosystem
 Backend Architecture
 Security Engineering
@@ -329,7 +266,7 @@ For projects, technical collaboration, or backend architecture work:
 
 <br>
 
-```text id="f9z4q2"
+```text id="w2ut5m"
 Understand the problem.
 Design the system.
 Build it properly.
