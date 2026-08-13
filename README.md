@@ -8,7 +8,7 @@
 <tr>
 <td width="60%" valign="center">
 
-```text id="h8y2xq"
+```text id="f3h2s9"
 Architecture.
 Backend engineering.
 Security.
@@ -35,7 +35,7 @@ and long-term maintainability.
 
 ## About
 
-```yaml id="5x4v9p"
+```yaml id="m7y5j4"
 name: Arash Abraham
 role: Backend Architect
 
@@ -125,13 +125,26 @@ A disciplined engineering process keeps complexity under control and makes techn
 
 **Status:** `In Development`
 
-A production-oriented monitoring and infrastructure-awareness system being developed for [**Arya Khorasan Organization**](https://github.com/AryaKhorasan).
+A security-oriented asset discovery and attack-surface management platform being developed for [**Arya Khorasan Organization**](https://github.com/AryaKhorasan).
 
-The project focuses on infrastructure visibility, system health, reliability, and operational awareness.
+Modern organizations can have thousands of domains, subdomains, IP addresses, services, applications, and other internet-facing assets.
+
+Keeping that inventory accurate and continuously updated is itself a serious engineering problem.
+
+Watch Tower is being developed around that problem:
+
+**Discover the assets.
+Keep them fresh.
+Monitor their state.
+Make the attack surface continuously usable.**
+
+The objective is to provide security researchers with an up-to-date view of an organization's external footprint instead of relying on static or outdated asset lists.
 
 **Focus**
 
-`Monitoring` · `Infrastructure` · `Reliability`
+`Asset Discovery` · `Attack Surface Management`
+`Continuous Monitoring` · `Asset Intelligence`
+`Security Research` · `Bug Bounty`
 
 </td>
 
@@ -141,31 +154,53 @@ The project focuses on infrastructure visibility, system health, reliability, an
 
 **Status:** `Completed`
 
-A storage-focused backend built around scalable architecture, predictable file operations, and clean system boundaries.
+A backend project focused on file storage and management, with dedicated architecture for handling storage-related concerns.
 
-Designed around the idea that storage deserves its own architecture rather than becoming another CRUD layer.
+Rather than treating file handling as another small CRUD feature, the project approaches storage as a distinct backend problem with explicit responsibilities and system boundaries.
+
+The complete implementation and technical details are available in the project repository.
+
+**Repository**
+
+[**Arash-abraham/File-Store**](https://github.com/Arash-abraham/File-Store)
 
 **Focus**
 
-`Storage` · `Backend` · `Scalability`
+`File Storage` · `Backend Architecture`
+`APIs` · `Data Management` · `System Design`
 
 </td>
 
 <td width="33%" valign="top">
 
-## A-Train
+## Avesta Framework
 
-**Status:** `In Design`
+**Status:** `Full Rebuild`
 
-A system currently in the architecture and planning phase.
+A lightweight, Laravel-inspired MVC framework built from scratch in PHP.
 
-The blueprint exists.
-The problem is defined.
-Implementation comes next.
+The original implementation is functional. The current direction is a complete rebuild focused on understanding and rethinking the internals that modern frameworks usually hide behind abstractions.
+
+The rebuild covers the foundations of a framework, including:
+
+* Routing
+* Dependency Injection
+* Middleware
+* ORM
+* Migrations
+* Templating
+* CLI tooling
+
+The goal is not simply another PHP framework.
+
+> **The first version asked: "Can I build this?"
+> The rebuild asks: "Why does it work this way?"**
 
 **Focus**
 
-`Architecture` · `Automation` · `Systems`
+`PHP Internals` · `MVC Architecture`
+`Routing` · `Dependency Injection`
+`ORM` · `Middleware` · `Framework Design`
 
 </td>
 
@@ -196,7 +231,7 @@ Data access, workload patterns, queues, caching, bottlenecks, and failure modes 
 
 Performance decisions should be based on evidence rather than assumptions.
 
-```text id="6s6x6f"
+```text id="2t4m8s"
 Observe → Measure → Identify → Improve → Verify
 ```
 
@@ -208,14 +243,17 @@ Good software should remain understandable long after the original implementatio
 
 # Selected Interests
 
-```text id="z6z6so"
+```text id="h8f5y1"
 Laravel Ecosystem
 Backend Architecture
 Security Engineering
 API Design
 Infrastructure
+Attack Surface Management
 Monitoring & Observability
 Performance Engineering
+PHP Internals
+Framework Design
 Python Services
 Automation
 Open Source
@@ -232,6 +270,7 @@ Interested in projects involving:
 * Backend-heavy products
 * Security-oriented utilities
 * Infrastructure and monitoring systems
+* Attack surface and security research tooling
 * Developer tools
 * Python services and automation
 * Performance and scalability work
@@ -266,7 +305,7 @@ For projects, technical collaboration, or backend architecture work:
 
 <br>
 
-```text id="w2ut5m"
+```text id="4u1h6r"
 Understand the problem.
 Design the system.
 Build it properly.
