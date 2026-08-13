@@ -8,7 +8,7 @@
 <tr>
 <td width="60%" valign="center">
 
-```text id="f3h2s9"
+```text id="3h8k2a"
 Architecture.
 Backend engineering.
 Security.
@@ -35,7 +35,7 @@ and long-term maintainability.
 
 ## About
 
-```yaml id="m7y5j4"
+```yaml id="w8p4k6"
 name: Arash Abraham
 role: Backend Architect
 
@@ -114,7 +114,7 @@ A disciplined engineering process keeps complexity under control and makes techn
 
 ---
 
-# Current Projects
+# Selected Projects
 
 <table>
 <tr>
@@ -150,24 +150,51 @@ The objective is to provide security researchers with an up-to-date view of an o
 
 <td width="33%" valign="top">
 
-## File-Store
+## FileStore
 
 **Status:** `Completed`
 
-A backend project focused on file storage and management, with dedicated architecture for handling storage-related concerns.
+A modern **digital PDF book marketplace** built with Laravel.
 
-Rather than treating file handling as another small CRUD feature, the project approaches storage as a distinct backend problem with explicit responsibilities and system boundaries.
+The platform covers the complete lifecycle of digital product commerce — from product discovery and purchasing to payments, downloads, user management, and administration.
 
-The complete implementation and technical details are available in the project repository.
+### Core capabilities
+
+* Product catalog and categories
+* Advanced product search
+* Shopping cart
+* Discount codes
+* Wallet and partial payments
+* Order and purchase management
+* Secure digital file downloads
+* User dashboard
+* Support ticket system
+* Product comments and moderation
+* Admin dashboard and sales analytics
+* Dynamic menu management
+* FAQ management
+* Multiple authentication methods
+* Email and SMS verification
+* ZarinPal payment integration
+
+### Authentication
+
+`Email + Password`
+`Email Verification Code`
+`SMS Verification Code`
+
+### Commerce
+
+`Cart` · `Orders` · `Wallet` · `Discounts` · `Payments`
+
+### Administration
+
+`Products` · `Files` · `Categories` · `Tags`
+`Payments` · `Tickets` · `Comments` · `Analytics`
 
 **Repository**
 
 [**Arash-abraham/File-Store**](https://github.com/Arash-abraham/File-Store)
-
-**Focus**
-
-`File Storage` · `Backend Architecture`
-`APIs` · `Data Management` · `System Design`
 
 </td>
 
@@ -181,20 +208,29 @@ A lightweight, Laravel-inspired MVC framework built from scratch in PHP.
 
 The original implementation is functional. The current direction is a complete rebuild focused on understanding and rethinking the internals that modern frameworks usually hide behind abstractions.
 
-The rebuild covers the foundations of a framework, including:
+### Rebuild scope
 
-* Routing
-* Dependency Injection
-* Middleware
+* Router
+* Dependency Injection Container
+* Middleware Pipeline
 * ORM
-* Migrations
-* Templating
-* CLI tooling
+* Database Migrations
+* Schema Builder
+* Blade-inspired Templating
+* CLI / Command Runner
 
-The goal is not simply another PHP framework.
+The project is intentionally minimal and explicit.
+
+No unnecessary abstractions.
+No dependency-heavy architecture.
+A focus on understanding how the pieces actually work together.
 
 > **The first version asked: "Can I build this?"
 > The rebuild asks: "Why does it work this way?"**
+
+**Repository**
+
+[**Arash-abraham/Avesta**](https://github.com/Arash-abraham/Avesta)
 
 **Focus**
 
@@ -231,7 +267,7 @@ Data access, workload patterns, queues, caching, bottlenecks, and failure modes 
 
 Performance decisions should be based on evidence rather than assumptions.
 
-```text id="2t4m8s"
+```text id="2j4c8n"
 Observe → Measure → Identify → Improve → Verify
 ```
 
@@ -243,7 +279,7 @@ Good software should remain understandable long after the original implementatio
 
 # Selected Interests
 
-```text id="h8f5y1"
+```text id="x7n4qp"
 Laravel Ecosystem
 Backend Architecture
 Security Engineering
@@ -305,7 +341,7 @@ For projects, technical collaboration, or backend architecture work:
 
 <br>
 
-```text id="4u1h6r"
+```text id="r8q3mz"
 Understand the problem.
 Design the system.
 Build it properly.
