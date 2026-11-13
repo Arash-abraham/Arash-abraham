@@ -1,222 +1,114 @@
-# Arash Abraham
+<div align="center">
 
-### Backend Architect · Laravel & Python Engineer · Security-Oriented Builder
+<h1>Arash Abraham</h1>
 
-> **Systems designed to scale cleanly, remain maintainable, and stay secure under pressure.**
+<b>Backend Engineer</b>
+
+[Email](mailto:arashebi777@gmail.com) &nbsp;·&nbsp; [Telegram](https://t.me/Octawian) &nbsp;·&nbsp; [X](https://x.com/Arash_Aryans) &nbsp;·&nbsp; [GitHub](https://github.com/Arash-abraham)
+
+<br />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocXdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="320" />
+
+</div>
+
+<br />
+
+I build backend systems, APIs and data-driven applications, primarily with Laravel and Python. My focus is on maintainable software, reliable infrastructure and decisions that hold up under review.
+
+Most of my work starts at the same place: understanding how data actually moves through a system before choosing how it should be stored, cached or queued. That usually decides more about how a service behaves in production than the framework does. I prefer boring, explicit solutions over clever ones, and I would rather ship a smaller system that is understood than a larger one that only works when nothing goes wrong.
+
+I try to leave a trail behind each project: what is covered by tests, what has been measured, and what is still missing. Where a limitation is known, it is written down in the repository rather than left for someone to discover later.
+
+I am currently working mostly on Laravel services and REST APIs, with Python around them for tooling and data collection. Beyond that, I am most useful on data models that need to stay correct over time, authentication and session boundaries, background jobs, and taking an existing backend that has grown awkward and making it predictable again.
+
+<br />
+
+## Technologies
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://cdn.simpleicons.org/php/818CF8" width="20" height="20" alt="PHP" title="PHP" /> PHP &nbsp; <img src="https://cdn.simpleicons.org/python/818CF8" width="20" height="20" alt="Python" title="Python" /> Python &nbsp; <img src="https://cdn.simpleicons.org/typescript/818CF8" width="20" height="20" alt="TypeScript" title="TypeScript" /> TypeScript &nbsp; SQL &nbsp; <img src="https://cdn.simpleicons.org/c/818CF8" width="20" height="20" alt="C" title="C" /> C &nbsp; <img src="https://cdn.simpleicons.org/cplusplus/818CF8" width="20" height="20" alt="C++" title="C++" /> C++ |
+| **Backend & Frameworks** | <img src="https://cdn.simpleicons.org/laravel/818CF8" width="20" height="20" alt="Laravel" title="Laravel" /> Laravel &nbsp; Sanctum &nbsp; <img src="https://cdn.simpleicons.org/vuedotjs/818CF8" width="20" height="20" alt="Vue 3" title="Vue 3" /> Vue 3 &nbsp; <img src="https://cdn.simpleicons.org/react/818CF8" width="20" height="20" alt="React" title="React" /> React &nbsp; <img src="https://cdn.simpleicons.org/pytest/818CF8" width="20" height="20" alt="pytest" title="pytest" /> pytest &nbsp; PHPUnit |
+| **Data & Infrastructure** | <img src="https://cdn.simpleicons.org/mysql/818CF8" width="20" height="20" alt="MySQL" title="MySQL" /> MySQL &nbsp; <img src="https://cdn.simpleicons.org/mongodb/818CF8" width="20" height="20" alt="MongoDB" title="MongoDB" /> MongoDB &nbsp; <img src="https://cdn.simpleicons.org/docker/818CF8" width="20" height="20" alt="Docker" title="Docker" /> Docker &nbsp; <img src="https://cdn.simpleicons.org/nginx/818CF8" width="20" height="20" alt="Nginx" title="Nginx" /> Nginx &nbsp; <img src="https://cdn.simpleicons.org/githubactions/818CF8" width="20" height="20" alt="GitHub Actions" title="GitHub Actions" /> GitHub Actions |
+
+<br />
+
+## Projects
 
 <table>
 <tr>
-<td width="60%" valign="center">
+<td width="50%" valign="top">
 
-```text
-Architecture.
-Backend engineering.
-Security.
-Performance.
-Infrastructure.
-```
+**[Watch Tower](https://github.com/AryaKhorasan/watch-tower)**
 
-Scalable backend systems, secure APIs, and
-infrastructure-aware software — with an emphasis
-on clean architecture, predictable behavior,
-and long-term maintainability.
+A bug-bounty scope monitoring platform that collects public datasets, tracks changes between snapshots and delivers Telegram or Discord notifications.
+
+A Python collector normalises every program's in-scope and out-of-scope assets into one shared document shape, diffs each run against the previous snapshot and records one alert per change; a Laravel API exposes programs, changes, stats and health, and a Vue dashboard reads the same data.
+
+The collector can run once or on a schedule, supports a dry-run mode and never lets a failed fetch kill the loop. Notifications are marked as sent per alert, so nothing is announced twice. The stack ships as Docker Compose services with health checks and CI.
+
+`Python` `Laravel` `Vue` `MongoDB` `Docker`
+
+<sub><b>Active development</b></sub>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="40%" align="right">
+**[A-Train](https://github.com/Arash-abraham/A-Train)**
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocXdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="320" />
+A multi-format diff tool supporting text, binary, JSON, CSV and directory comparisons, with Git integration and a terminal interface.
+
+Rather than forcing one algorithm onto every input, A-Train selects a dedicated engine per format: semantic comparison for JSON where key order is irrelevant, row matching keyed on a chosen column for CSV, rolling-hash change regions for binaries, and parallel hashing for directory trees.
+
+Output is available as patch-compatible unified diff, colored terminal view, side-by-side, standalone HTML or machine-readable JSON, with a watch mode, an interactive TUI and support for Git's external-diff protocol. Identical inputs exit early on a hash, and every edit script is checked to reconstruct the target exactly. Benchmarks and their methodology are published, including the cases where GNU diff is faster. Runs on the standard library alone; the TUI is optional.
+
+`Python` `pytest` `GitHub Actions`
+
+<sub><b>Early development · 0.5</b></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[File-Store](https://github.com/Arash-abraham/File-Store)**
+
+A digital bookstore built with Laravel and React, featuring payment integration, wallet management, authenticated downloads and content moderation.
+
+The storefront is a React 19 + TypeScript SPA backed by a Laravel 12 API with Sanctum session cookies, covering catalog and search, cart and coupons, orders and support tickets.
+
+Payment runs through Zarinpal, with a wallet that covers partial payments; balance changes are applied inside locked transactions, and wallet top-ups become payable only after verification. Purchased files never have public URLs, and download authorization is checked per user. User content stays hidden until it is moderated, authentication routes are rate-limited, and analytics stores a daily salted hash rather than IP addresses. Deployment steps and known limitations are documented.
+
+`Laravel` `React` `MySQL`
+
+<sub><b>Functional · documented limitations</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Oscar](https://github.com/Arash-abraham/Oscar)**
+
+A Python CLI project for organizing multi-language components into a unified build workflow.
+
+The interface is a Python menu that prepares source files and invokes a native compiler, with components grouped by operating system, component type and programming language. Implementations in C, C++ and Assembly sit alongside the tooling rather than being embedded in it.
+
+Each component's status is tracked individually in the repository, because presence in the tree does not mean a workflow completes end to end. Linux support is not implemented in the current interface, and the modular plugin architecture is planned rather than finished.
+
+`Python` `C` `C++`
+
+<sub><b>Prototype · in development</b></sub>
+
+<br />
+
+<sub>For educational purposes, malware analysis and authorized security research only.</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## Profile
-
-```yaml
-role:      Backend Architect
-core:      Laravel / PHP  ·  Python  ·  TypeScript
-low-level: C · C++ · Assembly  (when the job needs it)
-focus:     architecture · APIs · security · performance · developer tooling
-```
-
-I work close to the system: how data is accessed, how queues behave under
-pressure, where caching pays off, how a deployment fails at 3 a.m. Most of my
-time goes into **Laravel** services and APIs, with **Python** and **Node.js /
-TypeScript** around them — and C-family code when a problem needs to sit
-closer to the metal.
-
-Two things I care about more than feature count: **numbers that can be
-reproduced** (benchmarks, parity checks, golden tests) and **decisions that can
-be explained** — including the ones that say *stop*.
-
----
-
-## Architecture
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║  INTERFACE      REST APIs · Webhooks · Auth & Sessions     ║
-║  APPLICATION    Laravel · PHP · Python · TypeScript        ║
-║  DATA           PostgreSQL · MySQL · MongoDB · Redis       ║
-║  INFRASTRUCTURE Docker · Linux · Nginx · Observability     ║
-╟────────────────────────────────────────────────────────────╢
-║  SECURITY       cross-cutting concern in every layer       ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-The layers are designed together, not bolted on in sequence — and security is
-not one of them, it runs through all of them.
-
----
-
-## Selected Work
-
-| Status | Project | What it is |
-| :-- | :-- | :-- |
-| `● SHIPPED` | **[A-Train](https://github.com/Arash-abraham/A-Train)** | Fast file & directory comparison for developers |
-| `● IN DESIGN` | **[GitLens](https://github.com/Arash-abraham/GitLens)** | Change intelligence for the human + agent era |
-| `● SHIPPED` | **[Oscar](https://github.com/Arash-abraham/Oscar)** | Modular payload-generation framework |
-| `● SHIPPED` | **[FileStore](https://github.com/Arash-abraham/File-Store)** | Laravel marketplace for digital books |
-
-### A-Train · *shipped*
-
-**A high-performance file comparison tool for developers** — named after the
-fastest member of The Seven, because a diff should arrive before you finish
-blinking. It compares two files or whole directory trees with purpose-built
-engines instead of forcing one general algorithm onto every input: **text**
-(line diff with intra-line word refinement), **binary** (rolling-hash change
-regions, hex display), **JSON** (semantic, key order irrelevant, JSONPath-style
-reporting), **CSV** (row comparison keyed on a column), and **tree** (parallel
-hashing, per-file diffs). Output as patch-compatible unified diff, colored
-terminal view, side-by-side, standalone HTML, or machine-readable JSON — plus
-watch mode, an interactive TUI, and Git integration that even speaks Git's
-external-diff protocol.
-
-The speed is measured, not claimed. A hash-based early exit handles identical
-inputs, Myers O(ND) runs over pre-hashed integer line ids, linear-space
-middle-snake refinement keeps memory flat, and a wall-clock guard bounds
-pathological inputs. That gives **100 MB identical files in 0.34 s** and
-**15.6× faster than `difflib`** on scattered 5 MB changes. Correctness gets the
-same treatment: every edit script is verified to reconstruct the target exactly
-(property-based round trips plus golden tests against GNU diffutils, applied
-with GNU `patch`). Benchmarks, roadmap, and a per-bug development report all
-live in the repository — including the results where GNU diff still wins.
-
-`Python` · `Algorithms` · `Myers Diff` · `CLI` · `TUI` · `Benchmarks`
-
-### GitLens · *in design*
-
-**A deterministic, evidence-first change-intelligence layer for the human +
-agent era.** The plan is to ingest a repository's full git history — provider
-agnostic, GitHub first — and model *every change*: commits, files, lines,
-authors, including AI agents and bots, each with an honest confidence tier. On
-that fact model it computes reproducible answers to questions teams currently
-cannot answer: which changes **survive**, where **rework** concentrates, what
-**co-changes** with what, how far **blast radius** reaches, and how review
-latency is trending — then turns versioned rules into **explainable risk
-signals** instead of a "Risk Score = 87" black box. AI is allowed to *explain*
-the evidence; it is never allowed to *measure* it.
-
-What makes this project different from a feature list is how it was planned.
-The master plan is a 1,700-line engineering document: a repository audit with
-reproduced defects, a product thesis with cited market evidence, an explicit
-**do-not-build register** (no GitHub clone, no git client, no vanity dashboard,
-no developer ranking, no black-box scores), architecture decision records, a
-data model and metric catalog, failure modes, and a six-month roadmap with a
-**decision gate at the end of month two** — if the thesis fails validation, the
-project stops on written criteria instead of sunk cost. **Nothing is
-implemented yet**; the plan is the current deliverable, and it is deliberately
-honest about the skeleton that exists today.
-
-`TypeScript` · `PostgreSQL` · `Git Internals` · `System Design` · `Analytics Engineering`
-
-### Oscar · *shipped*
-
-**A modular payload-generation framework** — and the first project I ever put on
-GitHub, back in 2020. It started as a simple Windows builder and became the
-project that taught me **C, C++, and Assembly** by hand, back when an AI
-assistant couldn't explain a segfault in seconds: documentation digging, broken
-builds, and long nights in a terminal.
-
-Python is only the interface layer. The payloads themselves are written in C,
-C++, and Assembly, where performance, binary size, and control over system
-resources actually matter — the completed Windows keylogger set ships in all
-three, with Telegram delivery. The original builder still works end to end:
-give it a name, a token and an icon, and it produces a compiled binary with no
-manual commands. The current rewrite turns it into a true modular framework —
-a payload registry, multiple payload types, Linux and macOS support, and custom
-implementations in any language.
-
-It exists strictly for **education, malware-analysis research, and authorized
-security testing** on systems you own — and that disclaimer is the first thing
-in the repository, as it should be.
-
-`C` · `C++` · `Assembly` · `Windows Internals` · `Python Tooling` · `Security Research`
-
-### FileStore · *shipped*
-
-A **digital book marketplace** built with Laravel, covering the full lifecycle
-of digital commerce: catalog and search, cart, discount codes, wallet with
-partial payments, orders, and secure file delivery.
-
-The interesting part was never the storefront — it's what sits behind it:
-multiple authentication paths (password, email code, SMS code), **ZarinPal**
-payment integration, download authorization that actually holds, support
-tickets, moderated comments, and an admin dashboard with real sales analytics.
-
-`Laravel` · `MySQL` · `Payments` · `Wallet` · `Secure Downloads` · `Admin Analytics`
-
----
-
-## Process
-
-```text
-  UNDERSTAND ─▶ DESIGN ─▶ BUILD ─▶ HARDEN ─▶ OPTIMIZE ─▶ SHIP
-   problem      system    code     security  evidence    release
-```
-
-Security is part of the architecture from the first commit, not a checklist at
-the end. Performance decisions come from measurement, not assumption. And scale
-is treated as a property of the whole system — data access, workload patterns,
-queues, caching, bottlenecks, failure modes — not something you buy with more
-servers.
-
----
-
-## Collaboration
-
-Developer tooling and CLI utilities · backend-heavy products · Laravel packages
-and ecosystem tooling · security-oriented utilities · infrastructure and
-monitoring systems · performance and scalability work · data-model and
-analytics engine design · legacy backend modernization · open-source projects.
-
-> **Real problems. Serious engineering. Useful software.**
-
----
-
-## Contact
-
-<p align="left">
-  <a href="mailto:arashebi777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Octawian">
-    <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Arash_Aryans">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
+<br />
 
 <div align="center">
-
-> **"Don't make it harder than it needs to be — understand the path first."**
-
-**Arash Abraham · Backend Architect**
-
+<sub>Backend Engineer · Laravel &amp; Python</sub>
 </div>
