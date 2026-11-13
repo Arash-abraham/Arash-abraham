@@ -1,114 +1,213 @@
 <div align="center">
 
-<h1>Arash Abraham</h1>
+# Arash Abraham
 
-<b>Backend Engineer</b>
+### Backend Engineer
 
-[Email](mailto:arashebi777@gmail.com) &nbsp;·&nbsp; [Telegram](https://t.me/Octawian) &nbsp;·&nbsp; [X](https://x.com/Arash_Aryans) &nbsp;·&nbsp; [GitHub](https://github.com/Arash-abraham)
+Building reliable backends, APIs & data-driven systems.
 
 <br />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocXdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="320" />
+<a href="mailto:arashebi777@gmail.com">
+  <img src="https://img.shields.io/badge/Email-818CF8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/Octawian">
+  <img src="https://img.shields.io/badge/Telegram-818CF8?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://x.com/Arash_Aryans">
+  <img src="https://img.shields.io/badge/X-818CF8?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/Arash-abraham">
+  <img src="https://img.shields.io/badge/GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br /><br />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpocXdieXRxY2liM3E2ZG95cmsyZmgxZ3JwdTlteXhmYnZpY2R0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif" width="300" />
+
+<br />
 
 </div>
 
-<br />
+---
+
+## About Me
 
 I build backend systems, APIs and data-driven applications, primarily with Laravel and Python. My focus is on maintainable software, reliable infrastructure and decisions that hold up under review.
 
-Most of my work starts at the same place: understanding how data actually moves through a system before choosing how it should be stored, cached or queued. That usually decides more about how a service behaves in production than the framework does. I prefer boring, explicit solutions over clever ones, and I would rather ship a smaller system that is understood than a larger one that only works when nothing goes wrong.
+Most of my work starts at the same place: understanding how data actually moves through a system before choosing how it should be stored, cached or queued. That usually decides more about how a service behaves in production than the framework does.
+
+I prefer boring, explicit solutions over clever ones, and I would rather ship a smaller system that is understood than a larger one that only works when nothing goes wrong.
 
 I try to leave a trail behind each project: what is covered by tests, what has been measured, and what is still missing. Where a limitation is known, it is written down in the repository rather than left for someone to discover later.
 
-I am currently working mostly on Laravel services and REST APIs, with Python around them for tooling and data collection. Beyond that, I am most useful on data models that need to stay correct over time, authentication and session boundaries, background jobs, and taking an existing backend that has grown awkward and making it predictable again.
+Currently, I work mostly on Laravel services and REST APIs, with Python around them for tooling and data collection.
 
-<br />
+My main areas of interest:
 
-## Technologies
+- Data modeling and consistency
+- Authentication and session boundaries
+- Background jobs and asynchronous processing
+- REST API design
+- Backend refactoring and system reliability
 
-| | |
-|:--|:--|
-| **Languages** | <img src="https://cdn.simpleicons.org/php/818CF8" width="20" height="20" alt="PHP" title="PHP" /> PHP &nbsp; <img src="https://cdn.simpleicons.org/python/818CF8" width="20" height="20" alt="Python" title="Python" /> Python &nbsp; <img src="https://cdn.simpleicons.org/typescript/818CF8" width="20" height="20" alt="TypeScript" title="TypeScript" /> TypeScript &nbsp; SQL &nbsp; <img src="https://cdn.simpleicons.org/c/818CF8" width="20" height="20" alt="C" title="C" /> C &nbsp; <img src="https://cdn.simpleicons.org/cplusplus/818CF8" width="20" height="20" alt="C++" title="C++" /> C++ |
-| **Backend & Frameworks** | <img src="https://cdn.simpleicons.org/laravel/818CF8" width="20" height="20" alt="Laravel" title="Laravel" /> Laravel &nbsp; Sanctum &nbsp; <img src="https://cdn.simpleicons.org/vuedotjs/818CF8" width="20" height="20" alt="Vue 3" title="Vue 3" /> Vue 3 &nbsp; <img src="https://cdn.simpleicons.org/react/818CF8" width="20" height="20" alt="React" title="React" /> React &nbsp; <img src="https://cdn.simpleicons.org/pytest/818CF8" width="20" height="20" alt="pytest" title="pytest" /> pytest &nbsp; PHPUnit |
-| **Data & Infrastructure** | <img src="https://cdn.simpleicons.org/mysql/818CF8" width="20" height="20" alt="MySQL" title="MySQL" /> MySQL &nbsp; <img src="https://cdn.simpleicons.org/mongodb/818CF8" width="20" height="20" alt="MongoDB" title="MongoDB" /> MongoDB &nbsp; <img src="https://cdn.simpleicons.org/docker/818CF8" width="20" height="20" alt="Docker" title="Docker" /> Docker &nbsp; <img src="https://cdn.simpleicons.org/nginx/818CF8" width="20" height="20" alt="Nginx" title="Nginx" /> Nginx &nbsp; <img src="https://cdn.simpleicons.org/githubactions/818CF8" width="20" height="20" alt="GitHub Actions" title="GitHub Actions" /> GitHub Actions |
+---
 
-<br />
+## Tech Stack
 
-## Projects
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,typescript,c,cpp" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react" />
+  <img src="https://img.shields.io/badge/Sanctum-818CF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHPUnit-818CF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/pytest-818CF8?style=flat-square" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx,githubactions" />
+</p>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Watch Tower](https://github.com/AryaKhorasan/watch-tower)**
+### [Watch Tower](https://github.com/AryaKhorasan/watch-tower)
 
-A bug-bounty scope monitoring platform that collects public datasets, tracks changes between snapshots and delivers Telegram or Discord notifications.
+**Bug Bounty Scope Monitoring Platform**
 
-A Python collector normalises every program's in-scope and out-of-scope assets into one shared document shape, diffs each run against the previous snapshot and records one alert per change; a Laravel API exposes programs, changes, stats and health, and a Vue dashboard reads the same data.
+A monitoring platform that collects public datasets, tracks changes between snapshots and delivers Telegram or Discord notifications.
 
-The collector can run once or on a schedule, supports a dry-run mode and never lets a failed fetch kill the loop. Notifications are marked as sent per alert, so nothing is announced twice. The stack ships as Docker Compose services with health checks and CI.
+- Python collector with normalized asset models
+- Snapshot comparison and change detection
+- Laravel API for programs, changes and statistics
+- Vue dashboard
+- Scheduled collection and dry-run support
+- Docker Compose, health checks and CI
+
+**Stack**
 
 `Python` `Laravel` `Vue` `MongoDB` `Docker`
 
-<sub><b>Active development</b></sub>
+<img src="https://img.shields.io/badge/Active_Development-22C55E?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-**[A-Train](https://github.com/Arash-abraham/A-Train)**
+### [A-Train](https://github.com/Arash-abraham/A-Train)
 
-A multi-format diff tool supporting text, binary, JSON, CSV and directory comparisons, with Git integration and a terminal interface.
+**Multi-format Diff Engine**
 
-Rather than forcing one algorithm onto every input, A-Train selects a dedicated engine per format: semantic comparison for JSON where key order is irrelevant, row matching keyed on a chosen column for CSV, rolling-hash change regions for binaries, and parallel hashing for directory trees.
+A multi-format comparison tool supporting text, binary, JSON, CSV and directory comparisons, with Git integration and a terminal interface.
 
-Output is available as patch-compatible unified diff, colored terminal view, side-by-side, standalone HTML or machine-readable JSON, with a watch mode, an interactive TUI and support for Git's external-diff protocol. Identical inputs exit early on a hash, and every edit script is checked to reconstruct the target exactly. Benchmarks and their methodology are published, including the cases where GNU diff is faster. Runs on the standard library alone; the TUI is optional.
+- Dedicated comparison engines per format
+- Semantic JSON and keyed CSV comparison
+- Rolling-hash binary comparison
+- Parallel directory hashing
+- Unified diff, HTML and JSON output
+- Interactive TUI and watch mode
+- Git external-diff protocol
+- Benchmarks and reconstruction tests
+
+**Stack**
 
 `Python` `pytest` `GitHub Actions`
 
-<sub><b>Early development · 0.5</b></sub>
+<img src="https://img.shields.io/badge/Early_Development-818CF8?style=flat-square" />
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**[File-Store](https://github.com/Arash-abraham/File-Store)**
+### [File-Store](https://github.com/Arash-abraham/File-Store)
+
+**Digital Bookstore & Payment Platform**
 
 A digital bookstore built with Laravel and React, featuring payment integration, wallet management, authenticated downloads and content moderation.
 
-The storefront is a React 19 + TypeScript SPA backed by a Laravel 12 API with Sanctum session cookies, covering catalog and search, cart and coupons, orders and support tickets.
+- Laravel 12 REST API
+- React 19 + TypeScript SPA
+- Sanctum session authentication
+- Zarinpal payment integration
+- Transaction-safe wallet operations
+- Private downloads with per-user authorization
+- Rate-limited authentication
+- Privacy-conscious analytics
 
-Payment runs through Zarinpal, with a wallet that covers partial payments; balance changes are applied inside locked transactions, and wallet top-ups become payable only after verification. Purchased files never have public URLs, and download authorization is checked per user. User content stays hidden until it is moderated, authentication routes are rate-limited, and analytics stores a daily salted hash rather than IP addresses. Deployment steps and known limitations are documented.
+**Stack**
 
-`Laravel` `React` `MySQL`
+`Laravel` `React` `MySQL` `TypeScript`
 
-<sub><b>Functional · documented limitations</b></sub>
+<img src="https://img.shields.io/badge/Functional-22C55E?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-**[Oscar](https://github.com/Arash-abraham/Oscar)**
+### [Oscar](https://github.com/Arash-abraham/Oscar)
+
+**Multi-language Build Workflow**
 
 A Python CLI project for organizing multi-language components into a unified build workflow.
 
-The interface is a Python menu that prepares source files and invokes a native compiler, with components grouped by operating system, component type and programming language. Implementations in C, C++ and Assembly sit alongside the tooling rather than being embedded in it.
+- Component-based architecture
+- Python orchestration interface
+- Native C and C++ implementations
+- Assembly components
+- OS and language-based organization
+- Individual component status tracking
 
-Each component's status is tracked individually in the repository, because presence in the tree does not mean a workflow completes end to end. Linux support is not implemented in the current interface, and the modular plugin architecture is planned rather than finished.
+Linux support and the modular plugin architecture remain planned rather than implemented.
 
-`Python` `C` `C++`
+**Stack**
 
-<sub><b>Prototype · in development</b></sub>
+`Python` `C` `C++` `Assembly`
 
-<br />
-
-<sub>For educational purposes, malware analysis and authorized security research only.</sub>
+<img src="https://img.shields.io/badge/Prototype-F59E0B?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
-<br />
+---
+
+## Engineering Philosophy
+
+> Understand the data flow first. Choose the architecture second. Keep the implementation explicit.
+
+I value readable code, measurable performance, documented trade-offs and systems that remain predictable when things go wrong.
+
+---
 
 <div align="center">
-<sub>Backend Engineer · Laravel &amp; Python</sub>
+
+### Let's Connect
+
+<a href="mailto:arashebi777@gmail.com">
+  <img src="https://img.shields.io/badge/Email-818CF8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/Octawian">
+  <img src="https://img.shields.io/badge/Telegram-818CF8?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://github.com/Arash-abraham">
+  <img src="https://img.shields.io/badge/GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br /><br />
+
+<sub>Backend Engineer · Laravel & Python</sub>
+
 </div>
