@@ -4,21 +4,21 @@
 
 ### Backend Engineer
 
-Building reliable backends, APIs & data-driven systems.
+**Building reliable backends, APIs & data-driven systems.**
 
 <br />
 
 <a href="mailto:arashebi777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-818CF8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 <a href="https://t.me/Octawian">
-  <img src="https://img.shields.io/badge/Telegram-818CF8?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-1E293B?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
 </a>
 <a href="https://x.com/Arash_Aryans">
-  <img src="https://img.shields.io/badge/X-818CF8?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-1E293B?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" />
 </a>
 <a href="https://github.com/Arash-abraham">
-  <img src="https://img.shields.io/badge/GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <br /><br />
@@ -43,7 +43,7 @@ I try to leave a trail behind each project: what is covered by tests, what has b
 
 Currently, I work mostly on Laravel services and REST APIs, with Python around them for tooling and data collection.
 
-My main areas of interest:
+**Areas I work with:**
 
 - Data modeling and consistency
 - Authentication and session boundaries
@@ -58,19 +58,22 @@ My main areas of interest:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,typescript,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,c,cpp" />
 </p>
 
 ### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,react" />
-  <img src="https://img.shields.io/badge/Sanctum-818CF8?style=flat-square" />
-  <img src="https://img.shields.io/badge/PHPUnit-818CF8?style=flat-square" />
-  <img src="https://img.shields.io/badge/pytest-818CF8?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi,flask" />
 </p>
 
-### Database & Infrastructure
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs" />
+</p>
+
+### Data & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx,githubactions" />
@@ -92,16 +95,17 @@ A monitoring platform that collects public datasets, tracks changes between snap
 
 - Python collector with normalized asset models
 - Snapshot comparison and change detection
-- Laravel API for programs, changes and statistics
+- Laravel API for programs, changes, stats and health
 - Vue dashboard
 - Scheduled collection and dry-run support
 - Docker Compose, health checks and CI
+- Notifications tracked individually to prevent duplicates
 
 **Stack**
 
 `Python` `Laravel` `Vue` `MongoDB` `Docker`
 
-<img src="https://img.shields.io/badge/Active_Development-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Active_Development-166534?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +117,8 @@ A monitoring platform that collects public datasets, tracks changes between snap
 A multi-format comparison tool supporting text, binary, JSON, CSV and directory comparisons, with Git integration and a terminal interface.
 
 - Dedicated comparison engines per format
-- Semantic JSON and keyed CSV comparison
+- Semantic JSON comparison
+- Key-based CSV row matching
 - Rolling-hash binary comparison
 - Parallel directory hashing
 - Unified diff, HTML and JSON output
@@ -125,7 +130,7 @@ A multi-format comparison tool supporting text, binary, JSON, CSV and directory 
 
 `Python` `pytest` `GitHub Actions`
 
-<img src="https://img.shields.io/badge/Early_Development-818CF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Early_Development-334155?style=flat-square" />
 
 </td>
 </tr>
@@ -147,12 +152,13 @@ A digital bookstore built with Laravel and React, featuring payment integration,
 - Private downloads with per-user authorization
 - Rate-limited authentication
 - Privacy-conscious analytics
+- Documented deployment and limitations
 
 **Stack**
 
 `Laravel` `React` `MySQL` `TypeScript`
 
-<img src="https://img.shields.io/badge/Functional-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Functional-166534?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -170,7 +176,7 @@ A Python CLI project for organizing multi-language components into a unified bui
 - OS and language-based organization
 - Individual component status tracking
 
-Linux support and the modular plugin architecture remain planned rather than implemented.
+Linux support is not implemented in the current interface, and the modular plugin architecture remains planned rather than finished.
 
 **Stack**
 
@@ -197,13 +203,13 @@ I value readable code, measurable performance, documented trade-offs and systems
 ### Let's Connect
 
 <a href="mailto:arashebi777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-818CF8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 <a href="https://t.me/Octawian">
-  <img src="https://img.shields.io/badge/Telegram-818CF8?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-1E293B?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
 </a>
 <a href="https://github.com/Arash-abraham">
-  <img src="https://img.shields.io/badge/GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <br /><br />
